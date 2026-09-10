@@ -1,0 +1,22 @@
+{
+  "name": "gaic-skills-directory",
+  "description": "A small public directory of general-purpose Claude Code skills, plus links to other worthwhile skill sources.",
+  "owner": {
+    "name": "Tamara Mack",
+    "email": "tamaramack0508@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "single-gpu-profile-switching",
+      "description": "Guidance for safely switching between GPU-exclusive services in a Docker Compose stack on a single-GPU host.",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Tamara Mack"
+      },
+      "keywords": ["docker", "gpu", "nvidia", "compose", "infrastructure"],
+      "category": "engineering",
+      "skills": ["./skills/single-gpu-profile-switching"]
+    }
+  ]
+}
