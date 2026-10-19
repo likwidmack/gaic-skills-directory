@@ -16,7 +16,7 @@ claude plugin install single-gpu-profile-switching@gaic-skills-directory
 
 | Skill | What it's for |
 | ----- | -------------- |
-| [single-gpu-profile-switching](skills/single-gpu-profile-switching/SKILL.md) | Safely switch between GPU-exclusive services in a Docker Compose stack on a single-GPU host |
+| [infra-gpu-single-profile-switching](skills/infra-gpu-single-profile-switching/SKILL.md) | Safely switch between GPU-exclusive services in a Docker Compose stack on a single-GPU host. The plugin install name is still `single-gpu-profile-switching`. |
 
 ## Directory: other worthwhile skill sources
 

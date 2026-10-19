@@ -1,5 +1,5 @@
 ---
-name: single-gpu-profile-switching
+name: infra-gpu-single-profile-switching
 description: Use when a Docker Compose project runs multiple GPU-hungry services (LLM inference, image generation, etc.) on a host with exactly one GPU, and you need to start/stop them without VRAM contention or silent OOM crashes.
 ---
 

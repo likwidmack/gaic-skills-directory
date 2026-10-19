@@ -16,7 +16,7 @@
       },
       "keywords": ["docker", "gpu", "nvidia", "compose", "infrastructure"],
       "category": "engineering",
-      "skills": ["./skills/single-gpu-profile-switching"]
+      "skills": ["./skills/infra-gpu-single-profile-switching"]
     }
   ]
 }
