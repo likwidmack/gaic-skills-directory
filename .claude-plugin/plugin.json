@@ -7,5 +7,5 @@
     "name": "Tamara Mack",
     "email": "tamaramack0508@gmail.com"
   },
-  "skills": ["./skills/single-gpu-profile-switching"]
+  "skills": ["./skills/infra-gpu-single-profile-switching"]
 }
